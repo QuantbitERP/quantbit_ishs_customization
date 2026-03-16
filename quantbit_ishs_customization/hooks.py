@@ -34,13 +34,9 @@ app_license = "mit"
 fixtures = [
 
     "Custom Field",
-
     "Property Setter",
-
     "Workspace",
-
     "Role",
-
     "Custom DocPerm",
 ]
 
