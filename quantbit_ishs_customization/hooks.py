@@ -48,13 +48,13 @@ fixtures = [
     {
         "dt": "Workspace",
             "filters": [
-                ["name", "in", ["Buying", "Selling", "Stock", "Invoicing","Shift & Attendance","Expenses","Performance","Invoicing","Projects","Subcontracting","Manufacturing","Stock"]]
+                ["name", "in", ["Buying", "Selling", "Stock", "Invoicing","Shift & Attendance","Expenses","Performance","Recruitment","Invoicing","Projects","Subcontracting","Manufacturing","Stock",]]
         ]
     },
     {
     "dt": "Desktop Icon",
     "filters": [
-        ["name", "in", ["GST India", "CRM","Selling","Buying","Stock","Assets","Projects","Support","Quality","Manufacturing","Subcontracting","Share Management","Subscription"]]
+        ["name", "in", ["GST India", "CRM","Selling","Buying","Stock","Assets","Projects","Support","Quality","Manufacturing","Subcontracting","Share Management","Subscription","Performance","Recruitment"]]
     ]
 },
     {
